@@ -1,2 +1,5 @@
-# acanthium
-Touch based in-browser development environment
+# Acanthium
+
+Touch based browser development environment
+
+![Screenshot](./screenshot.png)
